@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dee</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deecarneiro&theme=dark" alt="deecarneiro" />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deecarneiro&theme=dark" alt="deecarneiro" /></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deecarneiro&label=Profile%20views&color=0e75b6&style=flat" alt="deecarneiro" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
